@@ -22,9 +22,9 @@ Elle vous permettra de rencontrer et de découvrir le travail de nos chercheurs 
 | 8h45  | 9h30  | Panorama de la recherche | Clarisse Dhaenens (Directrice du CRIStAL) & Christophe Biernacki (Directeur du centre Inria)                                                                 | Amphithéatre Migeon |
 | 9h30  | 10h00 | La thèse de doctorat     | Yan Pennec (Vice-Doyen Recherche de la FST)                                                                                                                  | Amphithéatre Migeon |
 | 10h00 | 10h30 | Pause café               | _café offert aux participants par Polytech'Lille_                                                                                                            | Hall                |
-| 10h30 | 11h30 | Témoignages              | Maxime Agusti (doctorant, OVHcloud), Sophie Cerf (CR, Inria), Julie Jacques (MCF, Univ. Lille), Alice Loizeau (doctorante, Inria), Damien Marchal (IR, CNRS) | Amphithéatre Migeon |
-| 11h30 | 13h00 | Pause repas              | _en autonomie_                                                                                                                                               |                     |
-| 14h00 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                                                                                      | Hall                |
+| 10h30 | 12h00 | Témoignages              | Maxime Agusti (doctorant, OVHcloud), Sophie Cerf (CR, Inria), Julie Jacques (MCF, Univ. Lille), Alice Loizeau (doctorante, Inria), Damien Marchal (IR, CNRS) | Amphithéatre Migeon |
+| 12h00 | 13h30 | Pause repas              | _en autonomie_                                                                                                                                               |                     |
+| 13h30 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                                                                                      | Hall                |
 | 16h00 | 17h00 | Clôture                  | _goûter offert aux participants par le département d'Informatique_                                                                                           | Hall                |
 
 
