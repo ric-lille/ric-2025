@@ -20,12 +20,11 @@ Elle vous permettra de rencontrer et de découvrir le travail de nos chercheurs 
 |-------|-------|------------------------------|----------------------------------------------------------------------------------------------|---------------------|
 | 8h30  | 8h45  | Introduction                 | Romain Rouvoy                                                                                | Grand Amphithéâtre |
 | 8h45  | 9h30  | Panorama de la recherche     | Clarisse Dhaenens (Directrice du CRIStAL) & Stéphane Huot (Directeur du centre Inria)        | Grand Amphithéâtre |
-| 9h30  | 10h00 | La thèse de doctorat         | Yan Pennec (Vice-Doyen Recherche de la FST) | Grand Amphithéâtre |
-| 10h00 | 10h30 | Pause café                   | _café offert aux participants par XXX_                                            | Salle Imagine      |
+| 9h30  | 10h00 | La thèse de doctorat         | Ludovic Macaire (Directeur de l'école graduée MADIS)                                         | Grand Amphithéâtre |
+| 10h00 | 10h30 | Pause café                   | _café offert aux participants par XXX_                                                       | Salle Imagine      |
 | 10h30 | 12h00 | Témoignages                  | Oliver Irwin (doctorant), [Camille Marchet](https://kamimrcht.github.io/webpage/cv.html) (CR, Inria), [Sara Riva](https://sarariva.github.io) (MCF, Univ. Lille), Julie Keisler (doctorante, Inria), [Daniel Romero](https://scholar.google.fr/citations?user=OJzpPigAAAAJ&hl=en) (IR, Inria) | Grand Amphithéâtre |
 | 12h00 | 13h30 | Pause repas                  | _en autonomie_ |                     |
 | 13h30 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                          | Salle Imagine      |
-| 16h00 | 17h00 | Clôture                      | _goûter offert aux participants par le département d'Informatique_                           | Salle Imagine      |
 
 
 # Découvrez les différentes démonstrations proposées [ici](./demo.html)
