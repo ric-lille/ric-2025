@@ -22,7 +22,7 @@ Elle vous permettra de rencontrer et de découvrir le travail de nos chercheurs 
 | 8h45  | 9h30  | Panorama de la recherche     | Clarisse Dhaenens (Directrice du CRIStAL) & Nathalie Mitton (Directrice de Recherche du centre Inria) | Grand Amphithéâtre |
 | 9h30  | 10h00 | La thèse de doctorat         | Ludovic Macaire (Directeur de l'école graduée MADIS)                                         | Grand Amphithéâtre |
 | 10h00 | 10h30 | Pause café                   | _café offert aux participants par XXX_                                                       | Salle Imagine      |
-| 10h30 | 12h00 | Témoignages                  | [Camille Marchet](https://kamimrcht.github.io/webpage/cv.html) (CR, CNRS), [Sara Riva](https://sarariva.github.io) (MCF, Univ. Lille), Julie Keisler (doctorante, Inria), [Quentin Peyron](https://scholar.google.fr/citations?user=IvJpoQcAAAAJ&hl=fr) (CR, Inria), Oliver Irwin (doctorant), [Daniel Romero](https://scholar.google.fr/citations?user=OJzpPigAAAAJ&hl=en) (IR, Inria) | Grand Amphithéâtre |
+| 10h30 | 12h00 | Témoignages                  | [Camille Marchet](https://kamimrcht.github.io/webpage/cv.html) (CR, CNRS), [Sara Riva](https://sarariva.github.io) (MCF, Univ. Lille), [Quentin Peyron](https://scholar.google.fr/citations?user=IvJpoQcAAAAJ&hl=fr) (CR, Inria), Oliver Irwin (doctorant), [Daniel Romero](https://scholar.google.fr/citations?user=OJzpPigAAAAJ&hl=en) (IR, Inria) | Grand Amphithéâtre |
 | 12h00 | 13h30 | Pause repas                  | _en autonomie_ |                     |
 | 13h30 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                          | Salle Imagine      |
 
