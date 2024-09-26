@@ -22,5 +22,7 @@ description: Découvrez les démonstrations qui vous seront proposées.
 | DEFROST (Inria) | Robots souples | Dans notre équipe nous développons des robots qui bougent en se déformant, comme les invertébrés. Pour pouvoir les concevoir et les contrôler, nous cherchons à les modéliser et à produire des simulations de leur comportement. |
 | PIRVI (CRIStAL, IRCICA) | RoVR "Application de collaboration en réalité virtuelle | Une personne contrôle un humanoïde en utilisant de la motion capture (mains, taille, pieds et tête) et l'autre contrôle un robot type rover. Les deux personnes doivent collaborer pour compléter une tâche : récupération et empilement de caisses. Cette application démontre la motion capture, la cinématique inverse, différent types de réalité virtuelle et leurs limites.
 | BioComputing (CRIStAL) | Modélisation des systèmes vivants | Nous exposerons quelques exemples de problèmes de biologie que nous traitons au sein de biocomputing. En particulier, nous montrerons comment des méthodes formelles développées à l'origine pour l'analyse des programmes informatiques peuvent être utilisées et adaptées à l'analyse de systèmes vivants. |
+| CFHP (CRIStAL) | Validated Numerics Algorithms For Singular Algebraic Curves | Nous présenterons un poster au sujet de l'utilisation du calcul numérique validé pour le calcul des branches de courbes algébriques en des points singuliers, ainsi que les applications que nous visons. |
+
 
 [Accueil](./index.html)
