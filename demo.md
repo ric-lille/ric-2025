@@ -26,5 +26,7 @@ description: Découvrez les démonstrations qui vous seront proposées.
 | 2XS (CRIStAL) | Event Processing Using Neuromorphic Hardware	Nous présenterons un pipeline d'application dans lequel les événements d'entrée d'une caméra à événements sont traités via une connexion à du matériel neuromorphique (SpiNNaker-5). L'objectif de cette présentation est de démontrer comment cette configuration à faible consommation d'énergie peut traiter efficacement des événements dans des applications en temps réel.
 | DEFROST (CRIStAL, Inria) | Soft Robotics | Nous présentons différentes démonstrations autour de nos travaux qui vont du développement de logiciels d'aide à la conception robotique à la conception et fabrication de prototypes. |
 | 2XS (CRIStAL, IRCICA) | Inférence de réseau de neuronnes impulsionnels sur FPGA	La démonstration a pour objectif de montrer aux étudiants le fonctionnement des réseaux de neurones impulsionnels et de présenter l'architecture FPGA que nous développons pour exécuter des réseaux de neurones impulsionnels sur une architecture rapide et peu consommatrice d'énergie. |
+| EVREF (CRIStAL, Inria) | Compréhension statique et dynamique de programme | Nous présentons différentes démonstrations autour d'outils d'aide à la compréhension de programme statiques et dynamiques. Comment comprendre un gros logiciel sans passer 3 mois à juste lire son code ? Comment construire des débuggeurs efficaces ? |
+| PIRVI (CRIStAL, IRCICA) | Le monde souterrain des carrières | Déambulation virtuelle dans un univers de craie |
 
 [Accueil](./index.html)
