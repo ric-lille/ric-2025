@@ -23,8 +23,8 @@ Elle vous permettra de rencontrer et de découvrir le travail de nos chercheurs 
 | 9h30  | 10h00 | La thèse de doctorat         | Ludovic Macaire (Directeur de l'école graduée MADIS)                                                  | Amphi A |
 | 10h00 | 10h30 | Pause café                   | _café offert aux participants par le département Informatique de la Faculté des Sciences et Technolgies | Hall  |
 | 10h30 | 12h00 | Témoignages                  | Ellie Beauprez (Ingénieure de Recherche, ICARE), Nada Zine (Doctorante, Inria), Antoine Nollet (Doctorant, Université de Lille), Michael Perrot (Chargé de Recherche, Inria), Pierre Graux (Maître de Conférence, Université de Lille) | Amphi A |
-| 12h00 | 13h30 | Pause repas                  | _en autonomie_                                                                                        |         |
-| 13h30 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                                   | Hall    |
+| 12h00 | 14h00 | Pause repas                  | _en autonomie_                                                                                        |         |
+| 14h00 | 16h00 | [Démonstrations](./demo.html)| Équipes du CRIStAL et d'Inria Lille                                                                   | Hall    |
 
 
 # Découvrez les différentes démonstrations proposées [ici](./demo.html)
